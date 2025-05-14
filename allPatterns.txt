@@ -1,0 +1,68 @@
+Binary Tree:
+
+in order traversal
+pre
+post
+
+DFS
+BFS
+
+Prefix_sum
+
+Two Pointers
+
+Sliding window
+
+Fast and slow Pointers
+
+linkedlist in place reversal
+
+monotonic stack
+
+Top k elements
+
+overalapping intervals
+
+modified binary search
+
+binary tree traversal
+
+DFS
+
+BFS
+
+matrix traversal
+
+backtracking
+
+dynamic programming pattern : top down, bottom up
+
+cyclic sort
+
+hashmaps
+
+level order traversal problem
+
+graphs
+
+two heaps
+
+subsets
+
+bitwise xor
+
+k-way merge
+
+greedy
+
+0/1 knapsack
+
+trie
+
+topological sort
+
+union find
+
+ordered set
+
+multi-threaded
